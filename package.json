@@ -1,0 +1,22 @@
+{
+  "name": "mob-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^5.0.0-alpha.8",
+    "hbs": "^4.2.0",
+    "mongoose": "^6.0.15",
+    "nodemon": "^2.0.15"
+  }
+}
